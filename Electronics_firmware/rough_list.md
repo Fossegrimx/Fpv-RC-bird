@@ -1,4 +1,5 @@
 Microcontroller:
+<<<<<<< HEAD
     1x STM32F722 link- https://rees52.com/products/radiolink-f722-mcu-flight-controller-with-stm32f722ret6-processor?variant=46807080304807&country=IN&currency=INR
 
 Motors:
@@ -34,3 +35,9 @@ Camera:
 | 12 | Servo linkages    |   5 | **cad design**    |    TBD |  ❌      |
 | 13 | Wiring/connectors |   — | TBD               |    TBD |  ❌      |
 | 14 | Custom PCB        |   1 | **cad design**    |    TBD |  🟡      |
+=======
+1x STM32F722 link- https://rees52.com/products/radiolink-f722-mcu-flight-controller-with-stm32f722ret6-processor?variant=46807080304807&country=IN&currency=INR
+
+Motors
+4x servomotors link-
+>>>>>>> 2696b7993775a6c6dd1555543544bd2603aa15d3
